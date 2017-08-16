@@ -14,7 +14,7 @@ header-img: "img/zhihu.jpg"
 ###代表作：
 
 
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://www.jianshu.com/p/6f1404e0240d)
+- [kbjopen VBS与Scratch的结晶](http://tieba.baidu.com/p/5265337935)
 
 - [《如何正确地练习写作》](http://www.jianshu.com/p/2621444b619d)
 
