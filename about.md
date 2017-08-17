@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="https://gss0.baidu.com/7Ls0a8Sm2Q5IlBGlnYG/sys/portraitl/item/1a00e478?t=1472514681" align="center"></p>
 </center>
 
 我是空白君，每天千行践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
@@ -54,14 +54,3 @@ header-img: "img/green.jpg"
 ###联系
 
 - QQ：2791595978
-
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
-
-
-
-
-
-
