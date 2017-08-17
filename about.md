@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "我还是那位一无所知的空白"
 header-img: "img/green.jpg"
 ---
 
