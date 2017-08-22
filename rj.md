@@ -12,3 +12,5 @@
 # 这里提供空白软件专属的下载链接：
 
 ## kbjopen（0.0.0.4）： [点我下载](https://raw.githubusercontent.com/a2791595978/a2791595978.github.io/master/WebFile/kbjopen%EF%BC%880.0.0.4%EF%BC%89.exe)
+
+## 图书漂流（0.0.1）： [点我下载](https://raw.githubusercontent.com/a2791595978/a2791595978.github.io/master/WebFile/%E5%9B%BE%E4%B9%A6%E6%BC%82%E6%B5%81.sb2)
