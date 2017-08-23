@@ -13,7 +13,3 @@
 ## [GIT命令](http://blog.jobbole.com/34503/)
 
 ## [神偷奶爸3，想看就点我哦！（爱奇艺有广告版）](http://www.iqiyi.com/w_19rvjc618d.html)
-
-
-
-http://player.video.qiyi.com/0cdd78b2fbb7b7807efeadc3405f815a/0/0/w_19rvjc618d.swf-albumId=9038976209-tvId=9038976209-isPurchase=0-cnId=4
