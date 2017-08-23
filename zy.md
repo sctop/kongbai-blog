@@ -16,4 +16,15 @@
 
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=12906725&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
 
-<embed src="http://player.video.qiyi.com/25ba92f049e409df672fb117ac4ecc6c/0/0/w_19rvjq5gzh.swf-albumId=9066544209-tvId=9066544209-isPurchase=0-cnId=30" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<style>
+.gc-comments {font-size: 12px;}
+</style>
+<script src="http://nimojs.github.io/github-comments/gc.js"></script>
+<div class="gc-comments" data-repos="nimojs/github-comments" data-issues="1" >
+    <div class="gc-comments-title">
+        评论
+    </div>
+    <div class="gc-comments-info">
+        想在此留下评论，请访问 <a href="{{issues_link}}">{{issues_link}}</a> 提交评论
+    </div>
+</div>
