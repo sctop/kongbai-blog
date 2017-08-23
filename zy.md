@@ -16,4 +16,4 @@
 
 
 
-<embed src="http://player.video.qiyi.com/0cdd78b2fbb7b7807efeadc3405f815a/0/0/w_19rvjc618d.swf-albumId=9038976209-tvId=9038976209-isPurchase=0-cnId=4" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+http://player.video.qiyi.com/0cdd78b2fbb7b7807efeadc3405f815a/0/0/w_19rvjc618d.swf-albumId=9038976209-tvId=9038976209-isPurchase=0-cnId=4
