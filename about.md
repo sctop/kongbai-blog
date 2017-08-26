@@ -34,4 +34,12 @@ header-img: "img/green.jpg"
 
 - QQ：2791595978
 
+- 微信：kongbaijunsz
+
 # 友情云盘：[请点这里](rj.md)
+
+# 空白工作室官网：[请点这里](https://a2791595978.github.io/Kongbai/)
+
+# 空白拉QQ机器人官网： [请点这里](https://a2791595978.github.io/Kongbai/kbl)
+
+###### 空白君博客架设原理：空白君博客->github
