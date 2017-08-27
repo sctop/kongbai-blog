@@ -13,3 +13,5 @@
 ## [GIT命令](http://blog.jobbole.com/34503/)
 
 ## [神偷奶爸3，想看就点我哦！（爱奇艺有广告版）](http://www.iqiyi.com/w_19rvjc618d.html)
+
+## [GE最新版1.3.2下载（百度云）](http://pan.baidu.com/s/1jIikoCm)
