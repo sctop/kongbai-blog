@@ -18,3 +18,5 @@
 ## 图书漂流（0.0.1（格式exe））：[点我下载](https://raw.githubusercontent.com/a2791595978/a2791595978.github.io/master/WebFile/%E5%9B%BE%E4%B9%A6%E6%BC%82%E6%B5%81%EF%BC%880.0.1%EF%BC%89.exe)
 
 ## kbjopen（0.0.0.5）：[点我下载](https://raw.githubusercontent.com/a2791595978/a2791595978.github.io/master/WebFile/kbjopen%EF%BC%880.0.0.5%EF%BC%89.exe)
+
+## kbjopen（0.0.0.6）：[点我下载](http://pan.baidu.com/s/1mhNh59m)
