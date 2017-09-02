@@ -22,7 +22,7 @@
     var flashvars={
         f:'https://raw.githubusercontent.com/a2791595978/a2791595978.github.io/master/WebFile/%E5%AD%97%E7%AC%A6%E8%BD%AC%E7%A0%81%E5%99%A8%EF%BC%883.0.0%EF%BC%89.swf',
         a:,
-        s:4,
+        s:3,
         c:0
     };
     var params={bgcolor:'#FFF',allowFullScreen:true,allowScriptAccess:'always',wmode:'transparent'};
