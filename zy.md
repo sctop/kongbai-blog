@@ -16,15 +16,27 @@
 
 ## [GE最新版1.3.2下载（百度云）](http://pan.baidu.com/s/1jIikoCm)
 
-<div id="a1"></div>
-<script type="text/javascript" src="/ckplayer/ckplayer.js" charset="utf-8"></script>
-<script type="text/javascript">
-    var flashvars={
-        f:'https://raw.githubusercontent.com/a2791595978/a2791595978.github.io/master/WebFile/%E5%AD%97%E7%AC%A6%E8%BD%AC%E7%A0%81%E5%99%A8%EF%BC%883.0.0%EF%BC%89.swf',
-        a:,
-        s:3,
-        c:0
-    };
-    var params={bgcolor:'#FFF',allowFullScreen:true,allowScriptAccess:'always',wmode:'transparent'};
-    CKobject.embedSWF('/ckplayer/ckplayer.swf','a1','ckplayer_a1','600','400',flashvars,params);
-</script>
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="468" height="60">
+<param name=movie value="*.swf">
+<param name=quality value=High>
+<param name="_cx" value="12383">
+<param name="_cy" value="1588">
+<param name="FlashVars" value>
+<param name="Src" ref value="*.swf">
+<param name="WMode" value="Window">
+<param name="Play" value="-1">
+<param name="Loop" value="-1">
+<param name="SAlign" value>
+<param name="Menu" value="-1">
+<param name="Base" value>
+<param name="AllowScriptAccess" value="always">
+<param name="Scale" value="ShowAll">
+<param name="DeviceFont" value="0">
+<param name="EmbedMovie" value="0">
+<param name="BGColor" value>
+<param name="SWRemote" value>
+<param name="MovieData" value>
+<embed src="https://raw.githubusercontent.com/a2791595978/a2791595978.github.io/master/WebFile/%E5%AD%97%E7%AC%A6%E8%BD%AC%E7%A0%81%E5%99%A8%EF%BC%883.0.0%EF%BC%89.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="468" height="60">
+</embed>
+</object>
