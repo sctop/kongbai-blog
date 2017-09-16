@@ -36,6 +36,8 @@ header-img: "img/green.jpg"
 
 - 微信：kongbaijunsz
 
+# 我现在在bilibili（b站）/爱奇艺直播，[详情请点我](https://a2791595978.github.io/shipingwang/)
+
 # 友情云盘：[请点这里](rj.md)
 
 # 空白工作室官网：[请点这里](https://a2791595978.github.io/Kongbai/)
