@@ -48,6 +48,8 @@ description: "空白君"
             var hm = document.createElement("script");
             hm.src = "https://hm.baidu.com/hm.js?a09d586421391ca3c896816ef9cc4580";
             var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+        })();
         </script>
     </boby>
 </html>
