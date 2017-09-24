@@ -16,3 +16,5 @@
 # 选章数：
 
 ## [引子](https://a2791595978.github.io/xiaoshuo/引子)
+
+## [第一章](https://a2791595978.github.io/xiaoshuo/1)
